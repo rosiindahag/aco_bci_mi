@@ -10,7 +10,7 @@ subject_order = df["subject"].unique()
 type_order = ["ACO", "Random", "Fixed time"]
 
 # Step 2: Define Colors for Each Type (Research Paper Style)
-type_colors = {"ACO": "#377eb8", "Random": "#ff7f00", "Fixed time": "#4daf4a"}
+type_colors = {"ACO": "#a5a5a5", "Random": "#ed7d31", "Fixed time": "#4472c4"}
 
 # Set bar width and spacing
 bar_width = 0.25
