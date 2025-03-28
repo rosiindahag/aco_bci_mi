@@ -86,4 +86,4 @@ The project files are organized as follows:
   Contains the Python dependencies and environment configuration for the project. Use `pipenv install` to set up the environment.
 
 ## Reference
-R. I. Agustin and P. Raphisak, "Optimized Time Window Segmentation for Motor Imagery EEG Classification: An Ant Colony Optimization-Based Approach," 2025 13th International Conference on Brain-Computer Interface (BCI), Gangwon, Korea, Republic of, 2025, pp. 1-5, doi: 10.1109/BCI65088.2025.10931335
+R. I. Agustin and P. Raphisak, "Optimized Time Window Segmentation for Motor Imagery EEG Classification: An Ant Colony Optimization-Based Approach," 2025 13th International Conference on Brain-Computer Interface (BCI), Gangwon, Korea, Republic of, 2025, pp. 1-5, doi: https://doi.org/10.1109/BCI65088.2025.10931335
